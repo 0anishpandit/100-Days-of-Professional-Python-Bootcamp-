@@ -4,17 +4,17 @@ files:
     visible: true
     placeholders:
       - offset: 32
-        length: 19
+        length: 13
         placeholder_text: Type your name here
         initial_state:
           length: 19
           offset: 32
         initialized_from_dependency: false
         encrypted_possible_answer: gNkWNun6UxgzwijWA9gTrw==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Introduction+/+Our+First+Program
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true
